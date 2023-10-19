@@ -1,2 +1,3 @@
 Autor: Valentina Orlas
 Fecha: 18/10/2023
+Tema: Mejorando el manejo de git 
