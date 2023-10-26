@@ -16,3 +16,4 @@ Comandos:
      -git clone urlDelRepositorio ---> clona el repositorio
      -git pull origin master ---> actualiza, baja los archivos que no tiene
      -git merge nombreRama --->  debo estar ubicada en la master
+     -git merge valentina -m "mensaje"
