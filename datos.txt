@@ -1,3 +1,17 @@
 Autor: Valentina Orlas
 Fecha: 18/10/2023
 Tema: Mejorando el manejo de git 
+Comandos:
+     -git init ---> inicializar el proyecto
+     -git status ---> saber en qué estado se encuentra
+     -git add nombreArchivo---> agregarlos a la parte del stage
+     -git commit -m"comentario" ----> decir que ya está confirmado 
+     -git diff
+     -git status -saber
+     -git log ---> saber los commit que se han hecho 
+     -git checkout -b valentina
+     -git brash ---> muestra la rama en la que estoy 
+     -git bransh -d ---> para eliminar la rama 
+     -git checkout nombreRama ---> para ubicarme en la rama 
+     -git clone urlDelRepositorio ---> clona el repositorio
+     -git pull origin master ---> actualiza, baja los archivos que no tiene 
