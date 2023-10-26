@@ -14,4 +14,5 @@ Comandos:
      -git bransh -d ---> para eliminar la rama 
      -git checkout nombreRama ---> para ubicarme en la rama 
      -git clone urlDelRepositorio ---> clona el repositorio
-     -git pull origin master ---> actualiza, baja los archivos que no tiene 
+     -git pull origin master ---> actualiza, baja los archivos que no tiene
+     -git merge nombreRama --->  
